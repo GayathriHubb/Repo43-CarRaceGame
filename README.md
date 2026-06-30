@@ -244,4 +244,4 @@ This project demonstrates:
 
 **Happy Racing! 🏁**
 
-*Built with ❤️ using C# and .NET*
+__Built with 💙 using C# and .NET__
